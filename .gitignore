@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+*.tfvars
+!*.tfvars.example
+
+# Assignment brief supplied by the employer; not redistributed.
+DevOps test - Take 1.pdf
+*.pdf
